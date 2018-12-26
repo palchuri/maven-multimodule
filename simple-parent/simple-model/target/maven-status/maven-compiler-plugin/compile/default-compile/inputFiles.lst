@@ -1,0 +1,5 @@
+/home/ubuntu/maven-multimodule/simple-parent/simple-model/src/main/java/org/sonatype/mavenbook/weather/model/Atmosphere.java
+/home/ubuntu/maven-multimodule/simple-parent/simple-model/src/main/java/org/sonatype/mavenbook/weather/model/Location.java
+/home/ubuntu/maven-multimodule/simple-parent/simple-model/src/main/java/org/sonatype/mavenbook/weather/model/Condition.java
+/home/ubuntu/maven-multimodule/simple-parent/simple-model/src/main/java/org/sonatype/mavenbook/weather/model/Weather.java
+/home/ubuntu/maven-multimodule/simple-parent/simple-model/src/main/java/org/sonatype/mavenbook/weather/model/Wind.java

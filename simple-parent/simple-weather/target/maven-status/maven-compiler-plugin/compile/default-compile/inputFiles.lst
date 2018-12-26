@@ -1,0 +1,3 @@
+/home/ubuntu/maven-multimodule/simple-parent/simple-weather/src/main/java/org/sonatype/mavenbook/weather/WeatherService.java
+/home/ubuntu/maven-multimodule/simple-parent/simple-weather/src/main/java/org/sonatype/mavenbook/weather/YahooParser.java
+/home/ubuntu/maven-multimodule/simple-parent/simple-weather/src/main/java/org/sonatype/mavenbook/weather/YahooRetriever.java

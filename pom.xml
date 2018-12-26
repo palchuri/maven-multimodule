@@ -9,6 +9,18 @@
   <version>0.8-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Multi-Spring Chapter Parent Project</name>
+<distributionManagement>
+    <repository>
+      <uniqueVersion>false</uniqueVersion>
+      <id>xcard-releases</id>
+      <url>http://ip-172-31-39-6.us-west-2.compute.internal:8081/nexus/content/repositories/xcard-releases</url>
+    </repository>
+    <snapshotRepository>
+      <uniqueVersion>true</uniqueVersion>
+      <id>xcard-snapshots</id>
+      <url>http://ip-172-31-39-6.us-west-2.compute.internal:8081/nexus/content/repositories/xcard-snapshots</url>
+  </snapshotRepository>
+</distributionManagement>
   <modules>
     <module>simple-parent</module>
   </modules>
